@@ -1,2 +1,2 @@
 # delta_demo
-this is a repository for git and github.
+this is a repository for git and github
